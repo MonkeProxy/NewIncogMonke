@@ -200,8 +200,8 @@
         "title": "Warfare 1944"
     },
     {
-        "image": "zombsroyale.jpg",
-        "location": "./gateway?url=em9tYnNyb3lhbGUuaW8%3D",
-        "title": "ZombsRoyale.io"
+        "image": "Emulator.jpg",
+        "location": "./src/gs/public/webretro/",
+        "title": "Emulator"
     }
 ]
