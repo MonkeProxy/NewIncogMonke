@@ -22,10 +22,16 @@
   "homepage": "https://github.com/titaniumnetwork-dev/Incognito#readme",
   "dependencies": {
     "corrosion": "^1.0.0",
+    "extract-text-webpack-plugin": "^3.0.2",
     "fastify": "^3.21.0",
     "fastify-cookie": "^5.3.1",
     "fastify-express": "^0.3.3",
     "fastify-formbody": "^5.1.0",
-    "fastify-static": "^4.2.3"
+    "fastify-static": "^4.2.3",
+    "jquery": "^3.6.0",
+    "jsdom": "^19.0.0",
+    "underscore": "^1.13.2",
+    "webpack": "^5.71.0",
+    "ws": "^8.5.0"
   }
 }
