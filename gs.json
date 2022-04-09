@@ -195,9 +195,9 @@
         "title": "Warfare 1917"
     },
     {
-        "image": "warfare1944.jpg",
-        "location": "./src/gs/public/swfs/#warfare1944",
-        "title": "Warfare 1944"
+        "image": "RetroArchpic.jpg",
+        "location": "./src/gs/public/retroarch/",
+        "title": "Retro Arch"
     },
     {
         "image": "Emulator.jpg",
